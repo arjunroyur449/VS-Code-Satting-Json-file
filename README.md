@@ -1,5 +1,5 @@
 # VS-Code-Satting-Json-file
-
+```
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
@@ -24,11 +24,13 @@
   "javascript.validate.enable": false,
   "typescript.validate.enable": false
 }
+```
 
+***
 ## VS Code snippets
 
 
-
+```
 {
   "React component": {
     "prefix": "rfc",
@@ -36,3 +38,4 @@
     "description": "React functional component"
   }
 }
+```
